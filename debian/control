@@ -1,15 +1,14 @@
-Source: jh8e11-0.1
-Section: unknown
-Priority: extra
+Source: jh8e11
+Section: web
+Priority: option
 Maintainer: hj <jh8e11@soton.ac.uk>
 Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.8.4
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: git://git.debian.org/collab-maint/jh8e11-0.1.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/jh8e11-0.1.git;a=summary
+Homepage: https://github.com/info6005/6005_cw1_2012
+#Vcs-Git: git://git.debian.org/collab-maint/jh8e11.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/jh8e11.git;a=summary
 
-Package: jh8e11-0.1
+Package: jh8e11
 Architecture: all
 Depends: ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: this is a rss feed reader in PHP
