@@ -1,6 +1,6 @@
-Source: jh8e11
+Source:jh8e11
 Section: web
-Priority: option
+Priority: optional
 Maintainer: hj <jh8e11@soton.ac.uk>
 Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.8.4
@@ -10,5 +10,5 @@ Homepage: https://github.com/info6005/6005_cw1_2012
 
 Package: jh8e11
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends}, php5-cli (>=5)
 Description: this is a rss feed reader in PHP
