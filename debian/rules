@@ -18,4 +18,15 @@ Direction1 = $(CURDIR)/debian/cw1-6005-jh8e11/usr/share/cw1-6005-jh8e11
 Direction2 = $(CURDIR)/debian/cw1-6005-jh8e11/usr/bin
 Direction3 = $(CURDIR)/debian/cw1-6005-jh8e11/etc/cw1-6005-jh8e11
 
+build: build-stamp
+build-stamp:
+	dh_testdir
+	touch build-stamp
+
+clean:
+	dh_testdir
+	dh_testroot
+	rm -f build-stamp
+	dh_clean
+
 
