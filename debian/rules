@@ -45,4 +45,25 @@ install: build clean $(code) $(feeds) $(index) $(rss)
 	install -m 755 $(code) $(Direction2)
 	install -m 644 $(feeds) $(Direction3)
 
+binary-indep: build install
+	dh_testdir
+	dh_testroot
+	dh_installchangelogs
+	dh_installdocs
+	dh_installexamples
+	dh_installdebconf
+	dh_installman
+	dh_link
+	dh_compress
+	dh_fixperms
+	dh_installdeb
+	dh_gencontrol
+	dh_md5sums
+	dh_builddeb
+
+binary-arch: build install
+
+binary: binary-indep binary-arch
+.PHONY: build clean binary-indep binary-arch binary install
+
 
