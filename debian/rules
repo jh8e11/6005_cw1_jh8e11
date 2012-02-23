@@ -30,3 +30,19 @@ clean:
 	dh_clean
 
 
+install: build clean $(code) $(feeds) $(index) $(rss)
+	dh_testdir
+	dh_testroot
+	dh_prep
+	dh_installdirs
+        
+	mkdir -m 755 -p $(Direction1)
+	mkdir -m 755 -p $(Direction2)
+	mkdir -m 755 -p $(Direction3)
+
+	install -m 644 $(index) $(Direction1)
+	install -m 644 $(rss) $(Direction1)
+	install -m 755 $(code) $(Direction2)
+	install -m 644 $(feeds) $(Direction3)
+
+
