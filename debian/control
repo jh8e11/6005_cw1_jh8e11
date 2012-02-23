@@ -12,3 +12,4 @@ Package: cw1-6005-jh8e11
 Architecture: all
 Depends: ${misc:Depends}, php5-cli (>=5)
 Description: this is a rss feed reader in PHP
+ more detailed description
