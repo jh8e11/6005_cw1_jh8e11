@@ -1,15 +1,35 @@
-jh8e11 (v2.1) i.e. stable; urgency=low
+cw1-6005-jh8e11 (v2.3) i.e. stable; urgency=low
 
   [jh8e11 <jh8e11@soton.ac.uk>]
+  * change the source, package and software name to cw1-6005-jh8e11 to correspond
+  * Control's source name and package name == Changelog's package name
+
+ -- jh8e11 <jh8e11@soton.ac.uk>  Thu, 23 Feb 2012 14:14:00 +0000
+
+cw1-6005-jh8e11 (v2.2) i.e. stable; urgency=low
+
+  [jh8e11 <jh8e11@soton.ac.uk>]
+  * change the source, package and software name to cw1-6005-jh8e11 to correspond
+  * generate the changelog file on the website
+
+ -- jh8e11 <jh8e11@soton.ac.uk>  Thu, 23 Feb 2012 13:21:59 +0000
+
+cw1-6005-jh8e11 (v2.1) i.e. stable; urgency=low
+
+  [jh8e11 <jh8e11@soton.ac.uk>]
+  * change the source, package and software name to cw1-6005-jh8e11 to correspond
+  * generate the changelog file on the website
   * modified the rules
   * modified the rules file
   * finish the rules file
 
  -- jh8e11 <jh8e11@soton.ac.uk>  Thu, 23 Feb 2012 13:09:42 +0000
 
-jh8e11 (v2.0) i.e. stable; urgency=low
+cw1-6005-jh8e11 (v2.0) i.e. stable; urgency=low
 
   [jh8e11 <jh8e11@soton.ac.uk>]
+  * change the source, package and software name to cw1-6005-jh8e11 to correspond
+  * generate the changelog file on the website
   * modified the rules
   * modified the rules file
   * finish the rules file
@@ -17,9 +37,11 @@ jh8e11 (v2.0) i.e. stable; urgency=low
 
  -- jh8e11 <jh8e11@soton.ac.uk>  Wed, 22 Feb 2012 22:24:57 +0000
 
-jh8e11 (v1.4) i.e. stable; urgency=low
+cw1-6005-jh8e11 (v1.4) i.e. stable; urgency=low
 
   [jh8e11 <jh8e11@soton.ac.uk>]
+  * change the source, package and software name to cw1-6005-jh8e11 to correspond
+  * generate the changelog file on the website
   * modified the rules
   * modified the rules file
   * finish the rules file
@@ -28,9 +50,11 @@ jh8e11 (v1.4) i.e. stable; urgency=low
 
  -- jh8e11 <jh8e11@soton.ac.uk>  Wed, 22 Feb 2012 22:14:05 +0000
 
-jh8e11 (v1.3) i.e. stable; urgency=low
+cw1-6005-jh8e11 (v1.3) i.e. stable; urgency=low
 
   [jh8e11 <jh8e11@soton.ac.uk>]
+  * change the source, package and software name to cw1-6005-jh8e11 to correspond
+  * generate the changelog file on the website
   * modified the rules
   * modified the rules file
   * finish the rules file
@@ -40,9 +64,11 @@ jh8e11 (v1.3) i.e. stable; urgency=low
 
  -- jh8e11 <jh8e11@soton.ac.uk>  Wed, 22 Feb 2012 22:01:01 +0000
 
-jh8e11 (v1.2) i.e. stable; urgency=low
+cw1-6005-jh8e11 (v1.2) i.e. stable; urgency=low
 
   [jh8e11 <jh8e11@soton.ac.uk>]
+  * change the source, package and software name to cw1-6005-jh8e11 to correspond
+  * generate the changelog file on the website
   * modified the rules
   * modified the rules file
   * finish the rules file
@@ -53,9 +79,11 @@ jh8e11 (v1.2) i.e. stable; urgency=low
 
  -- jh8e11 <jh8e11@soton.ac.uk>  Wed, 22 Feb 2012 17:26:41 +0000
 
-jh8e11 (v1.1) i.e. stable; urgency=low
+cw1-6005-jh8e11 (v1.1) i.e. stable; urgency=low
 
   [jh8e11 <jh8e11@soton.ac.uk>]
+  * change the source, package and software name to cw1-6005-jh8e11 to correspond
+  * generate the changelog file on the website
   * modified the rules
   * modified the rules file
   * finish the rules file
@@ -67,9 +95,11 @@ jh8e11 (v1.1) i.e. stable; urgency=low
 
  -- jh8e11 <jh8e11@soton.ac.uk>  Wed, 22 Feb 2012 17:18:50 +0000
 
-jh8e11 (v1.0) i.e. stable; urgency=low
+cw1-6005-jh8e11 (v1.0) i.e. stable; urgency=low
 
   [jh8e11 <jh8e11@soton.ac.uk>]
+  * change the source, package and software name to cw1-6005-jh8e11 to correspond
+  * generate the changelog file on the website
   * modified the rules
   * modified the rules file
   * finish the rules file
@@ -82,9 +112,11 @@ jh8e11 (v1.0) i.e. stable; urgency=low
 
  -- jh8e11 <jh8e11@soton.ac.uk>  Wed, 22 Feb 2012 17:07:38 +0000
 
-jh8e11 (v0.4) i.e. stable; urgency=low
+cw1-6005-jh8e11 (v0.4) i.e. stable; urgency=low
 
   [jh8e11 <jh8e11@soton.ac.uk>]
+  * change the source, package and software name to cw1-6005-jh8e11 to correspond
+  * generate the changelog file on the website
   * modified the rules
   * modified the rules file
   * finish the rules file
@@ -98,9 +130,11 @@ jh8e11 (v0.4) i.e. stable; urgency=low
 
  -- jh8e11 <jh8e11@soton.ac.uk>  Wed, 22 Feb 2012 16:58:53 +0000
 
-jh8e11 (v0.3) i.e. stable; urgency=low
+cw1-6005-jh8e11 (v0.3) i.e. stable; urgency=low
 
   [jh8e11 <jh8e11@soton.ac.uk>]
+  * change the source, package and software name to cw1-6005-jh8e11 to correspond
+  * generate the changelog file on the website
   * modified the rules
   * modified the rules file
   * finish the rules file
@@ -116,9 +150,11 @@ jh8e11 (v0.3) i.e. stable; urgency=low
 
  -- jh8e11 <jh8e11@soton.ac.uk>  Wed, 22 Feb 2012 16:58:07 +0000
 
-jh8e11 (v0.2) i.e. stable; urgency=low
+cw1-6005-jh8e11 (v0.2) i.e. stable; urgency=low
 
   [jh8e11 <jh8e11@soton.ac.uk>]
+  * change the source, package and software name to cw1-6005-jh8e11 to correspond
+  * generate the changelog file on the website
   * modified the rules
   * modified the rules file
   * finish the rules file
@@ -135,9 +171,11 @@ jh8e11 (v0.2) i.e. stable; urgency=low
 
  -- jh8e11 <jh8e11@soton.ac.uk>  Wed, 22 Feb 2012 16:34:59 +0000
 
-jh8e11 (v0.1) i.e. stable; urgency=low
+cw1-6005-jh8e11 (v0.1) i.e. stable; urgency=low
 
   [Dave Tarrant <davetaz@ecs.soton.ac.uk>]
+  * change the source, package and software name to cw1-6005-jh8e11 to correspond
+  * generate the changelog file on the website
   * modified the rules
   * modified the rules file
   * finish the rules file
