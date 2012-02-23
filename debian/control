@@ -1,4 +1,4 @@
-Source:jh8e11
+Source: cw1-6005-jh8e11
 Section: web
 Priority: optional
 Maintainer: hj <jh8e11@soton.ac.uk>
@@ -8,7 +8,7 @@ Homepage: https://github.com/info6005/6005_cw1_2012
 #Vcs-Git: git://git.debian.org/collab-maint/jh8e11.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/jh8e11.git;a=summary
 
-Package: jh8e11
+Package: cw1-6005-jh8e11
 Architecture: all
 Depends: ${misc:Depends}, php5-cli (>=5)
 Description: this is a rss feed reader in PHP
