@@ -1,6 +1,25 @@
 THIS IS THE COURSEWORK OF INFO6005 AT UNIVERSITY OF SOUTHAMPTON.
-THE UPSTREAM PROGRAMME PLAYS AS A RSS FEED READER. CODE IS DUPLICATED FROM: https://github.com/info6005/6005_cw1_2012
-AUTHOR : HU JING/JH8E11
+THE UPSTREAM PROGRAMME PLAYS AS A RSS FEED READER. CODE IS REPLICATED FROM:
+https://github.com/info6005/6005_cw1_2012
+AUTHOR : HU JING/jh8e11
 DATE:22,FEB, 2012
+=========================================================================================================================================================================
+The package is a standard installation package for a RSSREADER programme.
 
+INSTALL:
+dpck -i cw1-6005-jh8e11_v2.3_all.deb
 
+RUN
+cw1-6005-jh8e11
+
+PACKAGE:
+dpkg-buildpackage
+
+GITHUB:
+https://github.com/jh8e11/6005_cw1_jh8e11
+
+NOTE:
+There are some points I think are important but usually ignored during the whole precedure:
+1)During the package creation, the source and package name in the control file and the software name filled on the website to generate the changelog should be the same. It is also crucial to change the path in the index.php file.
+2)When running the package in ubuntu, remember to change the path in the command file and write the description in the control file following the standard format.
+3)Git tag is very convenient to mark important commits and then generate the changelog file. However, it only can mark one commit at one time. So it is better to make commits hierarchically and carefully.
