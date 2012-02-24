@@ -1,6 +1,13 @@
 cw1-6005-jh8e11 (v2.3) i.e. stable; urgency=low
 
   [jh8e11 <jh8e11@soton.ac.uk>]
+  * modified the README file
+
+ -- jh8e11 <jh8e11@soton.ac.uk>  Fri, 24 Feb 2012 57:15:00 +0000
+
+cw1-6005-jh8e11 (v2.3) i.e. stable; urgency=low
+
+  [jh8e11 <jh8e11@soton.ac.uk>]
   * change the source, package and software name to cw1-6005-jh8e11 to correspond
   * Control's source name and package name == Changelog's package name
 
